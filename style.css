@@ -1,0 +1,164 @@
+@media (max-width: 767px) {
+.about-us .about-p p {
+    padding: 0px 12px !important;;
+    font-size: 13px !important;;
+    line-height: 23px !important;;
+    padding-right: 0 !important;
+    padding-top: 0 !important;
+    }
+.links ul li a {
+    padding: 15px 10px !important;
+}
+.about-us {
+    height: 30rem !important;
+}
+.about-us .about {
+    padding-top: 5rem !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+.about-us .about-p p {
+    padding-top: 2rem !important;
+    line-height: 23px !important;
+}
+.links ul li a {
+    padding: 12px 11px !important;
+    }
+.links ul {
+    padding-top: 2rem !important;
+   
+    padding-bottom: 1rem !important;
+}
+}
+
+
+
+
+
+
+
+.love {
+    height: 350px;
+    border-radius: 10px;
+    background: #fa0680;
+	color: #fff;
+    text-align: center;
+    padding-top: 8rem;
+}
+.love .icon i.fa.fa {
+    font-size: 2rem;
+}
+.love h5 {
+    padding-top: 12px;
+    font-size: 18px;
+    font-family: unset;
+}
+.about-us {
+	color: #fff;
+	    margin-top: 2rem;
+    height: 350px;
+    border-radius: 10px;
+    background: #13c0e1;
+}
+.about-us .about {
+    padding-top: 9rem;
+    text-align: center;
+}
+.about-us .about .icon i.fa.fa {
+    font-size: 2rem;
+}
+.about-us .about h5 {
+    padding-top: 12px;
+    font-size: 18px;
+    font-family: unset;
+}
+.about-us .about-p p {
+	font-size: 14px;
+    padding-right: 1rem;
+    padding-top: 4rem;
+    line-height: 33px;
+    font-family: sans-serif;
+}
+.links ul {
+    padding-top: 2rem;
+    float: right;
+    }
+.links ul li {
+    float: left;
+    
+    list-style: none;
+   }
+.links ul li a {
+	padding: 15px 25px;
+    color: #13c0e1;
+    text-decoration: none;
+}
+.links ul li a:hover{
+	color: #fa0680;
+}
+.links ul span li a {
+	color: #fa0680;
+} 
+.links ul span li a:hover{
+	color: #13c0e1;
+	text-decoration: underline;
+}
+.nano {
+	padding-bottom: 3rem;
+}
+.form {
+	margin-bottom: 3rem;
+	border-radius: 10px;
+	padding: 3rem 4rem;
+	color: #fff;
+    background:linear-gradient( 
+338deg
+ , #17a2b8, #17a2b817);
+}
+.form input.form-control.mr-sm-2 {
+	border-radius: 0px;
+	color: #fff;
+	    width: 85%;
+    padding: 10px 0px;
+    background: none;
+    border: 0;
+    border-bottom: 1px solid white;
+}
+.form p {
+	    line-height: 32px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.form .tel {
+    text-align: center;
+    padding: 3rem 0rem;
+}
+.form .tel p {
+	    padding-top: 10px;
+	font-size: 20px;
+    font-family: monospace;
+}
+.form .icon i.fa.fa {
+	    margin-left: 8px;
+    background: #fff;
+    color: #17a2b8;
+    
+}
+.form .icon i.fa.fa:hover{
+	border-radius: 19px;
+}
+.form button {
+    float: right;
+    margin-right: 53px;
+    margin-top: 25px;
+    border: 0;
+    background: none;
+    color: #fff;
+}
+footer p {
+	    padding-bottom: 24px;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+    color: #a3a3a3;
+}
